@@ -1,0 +1,4 @@
+@Library('one_click_build@main')
+
+import poc.lib.*
+acejobhandler('MicroServ2')
